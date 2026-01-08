@@ -1,4 +1,4 @@
-# SistemaAndenes
+# Sistema Andenes
 Este repositorio contiene **recursos visuales estáticos** (imágenes) utilizados en el **Sistema de Andenes**, principalmente para su consumo en dashboards (Power BI).
 
 ## 📌 Propósito
